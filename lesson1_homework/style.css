@@ -1,0 +1,20 @@
+body{
+    background: darkgrey;
+
+}
+h1{
+    background: cadetblue;
+    color: darkgreen;
+}
+h2{
+    background: burlywood;
+    color: yellow;
+}
+p{
+    background: dimgrey;
+    color: lightgreen;
+}
+ul{
+    background: cadetblue;
+    color: darkgreen;
+}
