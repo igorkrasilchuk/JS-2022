@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+p {
+    text-align: center;
+    padding-top: 66px;
+
+}
+.main{
+    background: blanchedalmond;
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    /*left: center;*/
+}
+.large{
+    background: cornflowerblue;
+    height: 150px;
+    width:400px;
+}
+.middle{
+    display: flex;
+    justify-content:space-between;
+    background: yellow;
+    height: 150px;
+    width: 400px;
+}
+.small{
+    background: steelblue;
+    height: 150px;
+    width: 33.3%;
+    border: 1px solid black;
+
+}
